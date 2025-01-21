@@ -8,7 +8,7 @@ O aplicativo foi desenvolvido com o objetivo de simular receitas de comida, perm
 
 Esse projeto foi criado como uma forma de aprimorar minhas habilidades com a interface gráfica no Android e o uso do **RecyclerView** para exibir listas dinâmicas de itens, além de explorar a navegação entre **Activitys** no Android.
 
-### Funcionalidades:
+## Funcionalidades:
 - **Listagem de receitas**: Exibição de uma lista de receitas em um formato organizado com **RecyclerView**.
 - **Detalhamento das receitas**: Ao clicar em uma receita, o usuário é levado a uma nova tela onde os detalhes completos da receita são mostrados.
 
